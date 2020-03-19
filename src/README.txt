@@ -1,0 +1,1 @@
+For this module, press 1 to send a message to the drone. This will get the position of the drone and then a new position will be set for the model.
